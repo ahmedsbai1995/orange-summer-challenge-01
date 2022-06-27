@@ -33,7 +33,7 @@ application with the following requirements:
 
 - User
 
-❏ As a **user** I can sign in.
+❏ As a **user** I can sign in/up.
 
 ❏ As a **user** I can not see the list of users.
 
